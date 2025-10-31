@@ -56,7 +56,3 @@ This project distinguishes **human-written** from **machine-generated text** usi
 - Implement **neural sequence models** like LSTM or Transformer to capture context.
 - Explore **ensemble methods** combining Logistic Regression and Decision Trees.
 - Visualize **bigram importance** for enhanced interpretability.
-
----
-
-## 📁 Repository Structure
