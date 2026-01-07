@@ -96,6 +96,3 @@ This highlights the tradeoff:
 - Larger window → topical & contextual semantics
 
 ---
-
-## 🧪 Files in This Repository
-
