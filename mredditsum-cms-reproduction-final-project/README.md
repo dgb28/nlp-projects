@@ -176,6 +176,3 @@ This design reduces redundancy and encourages topic-level coverage.
 - Sensitivity to clustering threshold
 
 ---
-
-## 📁 Repository Structure
-
